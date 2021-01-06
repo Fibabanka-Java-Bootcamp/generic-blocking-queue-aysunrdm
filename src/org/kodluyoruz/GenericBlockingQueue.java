@@ -45,4 +45,7 @@ public class GenericBlockingQueue<E> implements Queue<E> {
     }
 
     //Kuyruğun başındaki öğeyi verir ve onu kuyruktan atar. Kuyruk boşsa, null verir.
+
+
+
 }
