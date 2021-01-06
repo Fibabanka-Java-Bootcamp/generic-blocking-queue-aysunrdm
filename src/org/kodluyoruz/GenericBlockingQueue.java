@@ -1,4 +1,4 @@
-package Queue;
+
 
 public class GenericBlockingQueue<E> implements Queue<E> {
 

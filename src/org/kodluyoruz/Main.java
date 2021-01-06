@@ -1,4 +1,4 @@
-package Queue;
+
 
 public class Main {
 
@@ -36,25 +36,24 @@ public class Main {
 
         }
 
+        
+        System.out.println("\n" + "Integer Queue first element: " + IntegerQueue.peek());
+        System.out.println( IntegerQueue.poll() + " kuyruktan çıkartılıyor." + "\n");
+
         System.out.println("Integer Queue first element: " + IntegerQueue.peek());
-
-        System.out.println("\n" + "Integer Queue first element: " + IntegerQueue.poll());
         System.out.println( IntegerQueue.poll() + " kuyruktan çıkartılıyor." + "\n");
 
-        System.out.println("Integer Queue first element: " + IntegerQueue.poll());
+        System.out.println("Integer Queue first element: " + IntegerQueue.peek());
         System.out.println( IntegerQueue.poll() + " kuyruktan çıkartılıyor." + "\n");
 
-        System.out.println("Integer Queue first element: " + IntegerQueue.poll());
+        System.out.println("Integer Queue first element: " + IntegerQueue.peek());
         System.out.println( IntegerQueue.poll() + " kuyruktan çıkartılıyor." + "\n");
 
-        System.out.println("Integer Queue first element: " + IntegerQueue.poll());
+        System.out.println("Integer Queue first element: " + IntegerQueue.peek());
         System.out.println( IntegerQueue.poll() + " kuyruktan çıkartılıyor." + "\n");
 
-        System.out.println("Integer Queue first element: " + IntegerQueue.poll());
-        System.out.println( IntegerQueue.poll() + " kuyruktan çıkartılıyor." + "\n");
-
-        System.out.println("Integer Queue first element: " + IntegerQueue.poll());
-        System.out.println("Kuyruk boş...");
+        System.out.println("Integer Queue first element: " + IntegerQueue.peek());
+        System.out.println("Kuyruk boş..." + "\n");
 
         }
 
