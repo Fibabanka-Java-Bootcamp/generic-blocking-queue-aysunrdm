@@ -12,4 +12,4 @@
 
 - Main metot üzerinde ise oluşturulmuş olan queue veri yapısı test edilmiştir. 
 
-- Main metot içerisinde GenericBlockingQueue class'ından StringQueue ve IntegerQueue adında iki tane referans obje oluşturularak; add, peek ve poll metotlarının bu objeler aracılığıyla kullanımı sağlanmıştır.
+- Main metot içerisinde GenericBlockingQueue class'ından StringQueue, IntegerQueue ve CharQueue adında üç tane referans obje oluşturularak; add, peek ve poll metotlarının bu objeler aracılığıyla kullanımı sağlanmıştır.
